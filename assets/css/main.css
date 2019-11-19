@@ -6,7 +6,36 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
+@media only screen and (max-width: 1024px){
+	video{
+		width: 750px;
+	}
+}
+@media only screen and (max-width: 768px){
+	video{
+		width: 500px;
+	}
+}
+@media only screen and (max-width: 411px){
+	video{
+		width: 335px;
+	}
+}
+@media only screen and (max-width: 414px){
+	video{
+		width: 325px;
+	}
+}
+@media only screen and (max-width: 375px){
+	video{
+		width: 300px;
+	}
+}
+@media only screen and (max-width: 360px){
+	video{
+		width: 280px;
+	}
+}
 #resume{
 	text-decoration:none;
 	background-color: blue;
